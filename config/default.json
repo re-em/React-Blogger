@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://reem97:remo151997@blogger-project.z3y56.mongodb.net/db?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
